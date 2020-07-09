@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d0784bfa8d076ba2dad6720f7101702",
+    "revision": "057cf80003368208c66e0aa736c0a572",
     "url": "/GhibliReact/index.html"
   },
   {
