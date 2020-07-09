@@ -1,4 +1,5 @@
 {
+  "homepage": "https://johnpcarvalho.github.io/GhibliReact/",
   "name": "ghibli-react",
   "version": "0.1.0",
   "private": true,
@@ -15,6 +16,8 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
