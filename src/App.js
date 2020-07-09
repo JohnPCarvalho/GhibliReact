@@ -1,9 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import logo from './assets/logo.png'
-import { Card } from './components/Card'
+import { Card, Container } from './components/Card'
 import api from './api/api';
-import { typeOf } from 'react-is';
 
 function App() {
 
@@ -49,8 +48,8 @@ function App() {
     ); 
   } else {
     renderedMovies = (
-      <div>
-        {movies.map(movie => <Card  title={movie.title} description={movie.description} />)}
+      <div class="container">
+        {movies.map(movie => <Card title={movie.title} description={movie.description.substring(0, 300) + '...'} />)}
       </div>
     )
   }

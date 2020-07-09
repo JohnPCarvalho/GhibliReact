@@ -6,13 +6,21 @@ export const Container = styled.div`
 `;
 
 export const CardContent = styled.div`
-   
     margin: 1rem;
     background: white;
     box-shadow: 2px 4px 25px rgba(0, 0, 0, .1);
     border-radius: 12px;
     overflow: hidden;
     transition: all .2s linear;
+    
+
+    @media screen and (min-width: 600px) {
+        flex: 1 1 calc(50% - 2rem);
+    }
+
+    @media screen and (min-width: 900px) {
+        flex: 1 1 calc(33% - 2rem);
+    }
 
     :hover {
         box-shadow: 2px 8px 45px rgba(0, 0, 0, .15);
