@@ -5,5 +5,4 @@ I built this app to practice my react skills, and my inspiration was [Tania Rasc
 
 It got the implementation of some React core concepts, like components and state.
 
-You can check it here 
 [You can check it here](https://johnpcarvalho.github.io/GhibliReact/)
