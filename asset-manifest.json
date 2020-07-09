@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GhibliReact/static/css/main.66ef133e.chunk.css",
+    "main.js": "/GhibliReact/static/js/main.3bc050fb.chunk.js",
+    "main.js.map": "/GhibliReact/static/js/main.3bc050fb.chunk.js.map",
+    "runtime-main.js": "/GhibliReact/static/js/runtime-main.0d2d18b1.js",
+    "runtime-main.js.map": "/GhibliReact/static/js/runtime-main.0d2d18b1.js.map",
+    "static/js/2.3eaacbcb.chunk.js": "/GhibliReact/static/js/2.3eaacbcb.chunk.js",
+    "static/js/2.3eaacbcb.chunk.js.map": "/GhibliReact/static/js/2.3eaacbcb.chunk.js.map",
+    "index.html": "/GhibliReact/index.html",
+    "precache-manifest.1d6475fc0bb1b46164ccaf6679dd3d57.js": "/GhibliReact/precache-manifest.1d6475fc0bb1b46164ccaf6679dd3d57.js",
+    "service-worker.js": "/GhibliReact/service-worker.js",
+    "static/css/main.66ef133e.chunk.css.map": "/GhibliReact/static/css/main.66ef133e.chunk.css.map",
+    "static/js/2.3eaacbcb.chunk.js.LICENSE.txt": "/GhibliReact/static/js/2.3eaacbcb.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/GhibliReact/static/media/logo.e86d97c0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d2d18b1.js",
+    "static/js/2.3eaacbcb.chunk.js",
+    "static/css/main.66ef133e.chunk.css",
+    "static/js/main.3bc050fb.chunk.js"
+  ]
+}
