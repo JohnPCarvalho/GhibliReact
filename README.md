@@ -5,3 +5,9 @@ This app is made with [React.js,](https://reactjs.org/ "React.js,") using [style
 This project has the implementation of some React core concepts, like components and state.
 
 You can check it [here](https://johnpcarvalho.github.io/GhibliReact/ "here")
+
+If you want to joke around with this project, you only need to clone it and execute the following commands: 
+ `yarn install`
+ `yarn start`
+ 
+![React Ghibli](https://i.imgur.com/Ntxu9n5.png "React Ghibli")
